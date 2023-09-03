@@ -1,1 +1,5 @@
 # mergeconflict
+
+red
+blue
+green
